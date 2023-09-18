@@ -34,12 +34,12 @@
                         <ul class="dropdown-menu  dropdown-menu-dark "id="dropwdownRevision" style="margin: 0;">
                             <!-- <h6 class="dropdown-header">Información</h6> -->
                             <li>
-                                <a class="dropdown-item nav-link text-white " href="/pdf_martinez/pdf"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Reporte</a>
+                                <a class="dropdown-item nav-link text-white " href="/pdf_martinez/ventas"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Detalle Ventas</a>
                             </li>
-                        </ul>
+                           
                     </div> 
 
-                </ul> 
+                </ul>   
                 <div class="col-lg-1 d-grid mb-lg-0 mb-2">
                     <!-- Ruta relativa desde el archivo donde se incluye menu.php -->
                     <a href="/pdf_martinez/" class="btn btn-danger"><i class="bi bi-arrow-bar-left"></i>MENÚ</a>
